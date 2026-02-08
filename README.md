@@ -12,7 +12,7 @@
 - Default API URL: http://localhost:8080/api
 
 ## Tech Stack
-- Frontend: React, Vite, JavaScript
+- Frontend: React, Vite, JavaScript,Nodejs
 - Backend: Spring Boot, JPA, MySQL
 - Deployment: Vercel (frontend), optional backend hosting
 
