@@ -1,0 +1,26 @@
+# Frontend
+frontend/node_modules
+frontend/dist
+frontend/.env
+
+# Backend
+product-catalog-backend/target
+product-catalog-backend/.idea
+product-catalog-backend/*.iml
+product-catalog-backend/.env
+
+# OS / misc
+.DS_Store
+git in
+git add .
+
+git init
+git add .
+git commit -m "Initial fullstack project (React frontend + Spring Boot backendgit commit -m "Initial fullstack project (React frontend + Spring Boot backend)"
+git commit -m "Initial fullstack project (React frontend + Spring Boot backend)"
+git branch -M main
+git remote add origin https://github.com/Vladosc22/Local-Ecom-Site.git
+git push -u origin main
+cd "/Users/vlados/Desktop/Programming/Back end/Ecom Store"
+nano .gitignore
+
